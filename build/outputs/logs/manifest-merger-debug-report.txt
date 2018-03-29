@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-50:12
+	package
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:35:5-66
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:35:22-64
+application
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:5-48:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/msirh/.android/build-cache/8ba209e900b9dabacca1eac90d735cab50e14397/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/msirh/.android/build-cache/4ccca4be30458b4dab2c4c6e5dfc75892c5e7e15/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:25.3.1] /Users/msirh/.android/build-cache/67ff5059bd7fce0b0fce2bd1251138ac622d6fcf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/msirh/.android/build-cache/2a709af6cd9f3fa639c8a763a094f38c52f21b4e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/msirh/.android/build-cache/dd523fd50de7894ac0ab18f92109e82204d37ad2/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/msirh/.android/build-cache/a2a520e3f665243b6924843fab8a86afe908c106/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.3.1] /Users/msirh/.android/build-cache/f09f79952a818c266e68bec8e6fd4c04f4ed9442/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/msirh/.android/build-cache/a0a7086600862a12d2988b2a1015a37aa3264ef9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/msirh/.android/build-cache/cda0efac5adf8f00f6fe8b4c5eaeb7bc8f4b04b1/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/msirh/.android/build-cache/8c59752834179e525d06f36ab4f88f88ab1286a9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/msirh/.android/build-cache/48af92613780e7e043d4b0f521a61678fe8405f5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/msirh/.android/build-cache/e869e73edb9d9779251588fafa8bfd2bde016eb9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/msirh/.android/build-cache/e53d1ea39ffa70343996c84b71ae4974afe8a525/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/msirh/.android/build-cache/022ab4d855a60532573bfd3028a93ddb71e2d9e9/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:18-50
+	android:icon
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:37:9-45
+	android:theme
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:38:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:9-45:20
+	android:label
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:9-58
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:9-77
+	android:enabled
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:53-75
+	android:name
+		ADDED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:18-52
+uses-sdk
+INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:26.1.0] /Users/msirh/.android/build-cache/8ba209e900b9dabacca1eac90d735cab50e14397/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/msirh/.android/build-cache/4ccca4be30458b4dab2c4c6e5dfc75892c5e7e15/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:25.3.1] /Users/msirh/.android/build-cache/67ff5059bd7fce0b0fce2bd1251138ac622d6fcf/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/msirh/.android/build-cache/2a709af6cd9f3fa639c8a763a094f38c52f21b4e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/msirh/.android/build-cache/dd523fd50de7894ac0ab18f92109e82204d37ad2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/msirh/.android/build-cache/a2a520e3f665243b6924843fab8a86afe908c106/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/msirh/.android/build-cache/c156fe78425cca891229795c3c2adfbf6f22776a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/msirh/.android/build-cache/f09f79952a818c266e68bec8e6fd4c04f4ed9442/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/msirh/.android/build-cache/a0a7086600862a12d2988b2a1015a37aa3264ef9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/msirh/.android/build-cache/cda0efac5adf8f00f6fe8b4c5eaeb7bc8f4b04b1/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/msirh/.android/build-cache/8c59752834179e525d06f36ab4f88f88ab1286a9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/msirh/.android/build-cache/48af92613780e7e043d4b0f521a61678fe8405f5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/msirh/.android/build-cache/e869e73edb9d9779251588fafa8bfd2bde016eb9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/msirh/.android/build-cache/e53d1ea39ffa70343996c84b71ae4974afe8a525/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/msirh/.android/build-cache/022ab4d855a60532573bfd3028a93ddb71e2d9e9/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/msirh/.android/build-cache/8ba209e900b9dabacca1eac90d735cab50e14397/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] /Users/msirh/.android/build-cache/8ba209e900b9dabacca1eac90d735cab50e14397/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/msirh/.android/build-cache/4ccca4be30458b4dab2c4c6e5dfc75892c5e7e15/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/msirh/.android/build-cache/2a709af6cd9f3fa639c8a763a094f38c52f21b4e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/msirh/.android/build-cache/dd523fd50de7894ac0ab18f92109e82204d37ad2/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/msirh/.android/build-cache/a2a520e3f665243b6924843fab8a86afe908c106/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/msirh/.android/build-cache/c156fe78425cca891229795c3c2adfbf6f22776a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/msirh/.android/build-cache/f09f79952a818c266e68bec8e6fd4c04f4ed9442/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:26.1.0] /Users/msirh/.android/build-cache/a0a7086600862a12d2988b2a1015a37aa3264ef9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/msirh/.android/build-cache/cda0efac5adf8f00f6fe8b4c5eaeb7bc8f4b04b1/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/msirh/.android/build-cache/8c59752834179e525d06f36ab4f88f88ab1286a9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/msirh/.android/build-cache/48af92613780e7e043d4b0f521a61678fe8405f5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/msirh/.android/build-cache/e869e73edb9d9779251588fafa8bfd2bde016eb9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/msirh/.android/build-cache/e53d1ea39ffa70343996c84b71ae4974afe8a525/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/msirh/.android/build-cache/8ba209e900b9dabacca1eac90d735cab50e14397/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/msirh/.android/build-cache/8ba209e900b9dabacca1eac90d735cab50e14397/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/msirh/.android/build-cache/022ab4d855a60532573bfd3028a93ddb71e2d9e9/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/msirh/.android/build-cache/022ab4d855a60532573bfd3028a93ddb71e2d9e9/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/msirh/.android/build-cache/022ab4d855a60532573bfd3028a93ddb71e2d9e9/output/AndroidManifest.xml:26:13-58
