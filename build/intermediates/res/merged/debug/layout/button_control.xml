@@ -18,6 +18,34 @@
         android:id="@+id/button"
         android:onClick="onClickRead" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickPost"
+        android:text="POST" />
+
+    <EditText
+        android:id="@+id/authTokenField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="AuthToken" />
+
+    <EditText
+        android:id="@+id/dataPointField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Data Point Name" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter Token and Data Point Name" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

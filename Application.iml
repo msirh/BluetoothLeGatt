@@ -114,10 +114,12 @@
     <orderEntry type="library" exported="" name="com.android.support:design-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="android.arch.core:common:1.0.0@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-fragment-26.1.0" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:/Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/libs/okio-1.14.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-vector-drawable-26.1.0" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-v4-26.1.0" level="project" />
     <orderEntry type="library" exported="" name="android.arch.lifecycle:runtime-1.0.0" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:appcompat-v7-26.1.0" level="project" />
+    <orderEntry type="library" exported="" name="__local_jars__:/Users/msirh/AndroidStudioProjects/BluetoothLeGatt/Application/libs/okhttp-3.10.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:animated-vector-drawable-26.1.0" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-annotations:26.1.0@jar" level="project" />
     <orderEntry type="library" exported="" name="com.android.support:support-v13-26.1.0" level="project" />
